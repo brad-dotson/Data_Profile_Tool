@@ -1,0 +1,8 @@
+# Initial Version 1 dependencies. Pin versions after the first working build.
+pandas>=2.2
+openpyxl>=3.1
+PyYAML>=6.0
+XlsxWriter>=3.2
+
+# Local notebook exploration; not intended as the final user interface.
+ipykernel>=6.29
